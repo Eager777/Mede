@@ -1,25 +1,34 @@
-// class in JS
-//------------
+// Array
 
-//const mobil = (
-  //  trensmisi: 'Manual',
-    //bahanBakar: 'Bensin',
-    //m//esin: 1500,
-    //n/yalakanMesin: function (){
-      //  console.log{'Mobil ${this,transmisi'}
+let student = ["jhon", "bob", "peter", "jack"];
+let numbers = [1, 2, 3, 4, 5];
+let jhon = ["jhon", "doe", 33, true];
 
-   // }
-//
+console.log(student);
+console.log(numbers);
+console.log(jhon);
+
+console.log(student[2]);
+student[2] = "bob";
+console.log(student);
+
+console.log(student.length);
+console.log(student[student.length - 1]);
+
+for(let i=0; i < student)
+
+//join()
+console.log(john,join)
+
+jhon.pop();
+console.log(jhon);
+john.push("Good morning")
+
+//object
 
 
-class MObil {
-    constructer
+jhon.job = "Teacher";
+console
 
-this.transmisi
-const mobil = new 
 
-class Toyota extends Mobil{
-    hsdfd
-
-}
-}
+0f
